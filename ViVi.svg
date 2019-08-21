@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 12 340 96">
+	<!-- Буква 'V' -->
+	<g class="first-symbol-v">
+		<!-- Основная линии формы 'V' -->
+		<polyline points="10,10 50,110 90,10" stroke="#f279ae" stroke-width="5" 
+			stroke-linejoin="bevel" fill="none"/>
+		<!-- Линии слева на право вниз -->
+		<line x1="20" y1="10" x2="52" y2="92" stroke="#f279ae" stroke-width="5"/>
+		<line x1="30" y1="10" x2="57" y2="80" stroke="#f279ae" stroke-width="5"/>
+		<line x1="40" y1="10" x2="62" y2="68" stroke="#f279ae" stroke-width="5"/>
+		<!-- Линии слева на право вверх -->
+		<line x1="100" y1="10" x2="60" y2="110" stroke="#f279ae" stroke-width="5"/>
+		<line x1="110" y1="10" x2="70" y2="110" stroke="#f279ae" stroke-width="5"/>
+		<line x1="120" y1="10" x2="80" y2="110" stroke="#f279ae" stroke-width="5"/>
+	</g>
+	<!-- Буква 'i' -->
+	<g class="first-symbol-i">
+		<!-- Линии сверху вних -->
+		<line x1="135" y1="110" x2="135" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<line x1="145" y1="110" x2="145" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<line x1="155" y1="110" x2="155" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<line x1="165" y1="110" x2="165" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<!-- Точка над линиями -->
+		<circle r="16"  cx="150" cy="35" fill="none" stroke="#f279ae" stroke-width="5" 
+			stroke-dasharray="15 5" />
+	</g>
+	<!-- Буква 'V' -->
+	<g class="second-symbol-v">
+		<!-- Основная линии формы 'V' -->
+		<polyline points="175,10 215,110 255,10" stroke="#f279ae" stroke-width="5" 
+			stroke-linejoin="bevel" fill="none"/>
+		<!-- Линии слева на право вниз -->
+		<line x1="185" y1="10" x2="217" y2="92" stroke="#f279ae" stroke-width="5"/>
+		<line x1="195" y1="10" x2="222" y2="80" stroke="#f279ae" stroke-width="5"/>
+		<line x1="205" y1="10" x2="227" y2="68" stroke="#f279ae" stroke-width="5"/>
+		<!-- Линии слева на право вверх -->
+		<line x1="265" y1="10" x2="225" y2="110" stroke="#f279ae" stroke-width="5"/>
+		<line x1="275" y1="10" x2="235" y2="110" stroke="#f279ae" stroke-width="5"/>
+		<line x1="285" y1="10" x2="245" y2="110" stroke="#f279ae" stroke-width="5"/>
+	</g>
+	<!-- Буква 'i' -->
+	<g class="second-symbol-i">
+		<!-- Линии сверху вних -->
+		<line x1="300" y1="110" x2="300" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<line x1="310" y1="110" x2="310" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<line x1="320" y1="110" x2="320" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<line x1="330" y1="110" x2="330" y2="56" stroke="#f279ae" stroke-width="5"/>
+		<!-- Точка над линиями -->
+		<circle r="16"  cx="315" cy="35" fill="none" stroke="#f279ae" stroke-width="5" 
+			stroke-dasharray="15 5" />
+	</g>
+	<!-- Число 1 -->
+	<g class="first-symbol-1">
+		<!-- Линии сверху вних основного контура -->
+		<polyline  points="220,140 235,120 235,210 200,210 270,210" fill="none" stroke="#f279ae" 
+			stroke-linejoin="bevel" stroke-width="5" />
+		<!-- Дополнительные линии -->
+		<polyline points="242,120 242,205" fill="none" stroke="#f279ae" stroke-width="5"/>
+		<polyline points="200,217 270,217" fill="none" stroke="#f279ae" stroke-width="5"/>
+	</g>
+</svg>
